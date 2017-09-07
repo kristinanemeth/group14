@@ -1,10 +1,6 @@
 # ECE3400 Fall 2017
 ## Lab 1: Microcontroller
 
-### Objective
-
-In this introductory lab, you will learn how to use the various functionalities of the Arduino Uno and the Arduino IDE. Your team will brainstorm and construct a simple functional Arduino program using multiple external components and the Arduino Uno. Once you have this basic understanding, you should put together your robot and have it perform a simple autonomous task. If you are already familiar with the Arduino, feel free to let those less familiar focus on the lab, and engage in some of the other tasks mentioned at the end of this page.
-
 ### I: Introduction to [Arduino](https://www.arduino.cc/en/Main/arduinoBoardUno/) 
 
 Testing example code: 
@@ -57,7 +53,7 @@ b) The second setup of the servo mimicked the first setup, however the PWM contr
 
 [Running Servo from Potentiometer]https://youtu.be/Uc2sd-4aWMA
 
-![pwm_servo.ino](./images/servocode.png) 
+![pwm_servo.ino](./servo code.png) 
 
 ![figure6](/images/img6.PNG)
 Figure (6): Connection between the arduino and the servo
